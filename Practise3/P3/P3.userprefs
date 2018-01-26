@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FinalPanelBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerBehaviour.cs" Line="65" Column="3" />
+      <File FileName="Assets/Scripts/SkeletonBehaviour.cs" Line="48" Column="5" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="87" Column="18" />
+      <File FileName="Assets/Scripts/UISoundButtonBehaviour.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="49" Column="8" />
+      <File FileName="Assets/Scripts/FinalPanelBehaviour.cs" Line="51" Column="5" />
+      <File FileName="Assets/Scripts/CrossButton.cs" Line="16" Column="12" />
+      <File FileName="Assets/Scripts/RunButton.cs" Line="16" Column="5" />
+      <File FileName="Assets/Scripts/AttackButton.cs" Line="14" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
